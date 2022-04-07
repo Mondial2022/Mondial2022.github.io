@@ -1,3 +1,3 @@
 # Mondial 2022 - Pronostics
 
-[Pronostics](./pronos.md)
+[Pronostics](pronos.md)
